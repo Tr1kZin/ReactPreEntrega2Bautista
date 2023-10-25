@@ -1,9 +1,0 @@
-.maxlist{
-    display: flex;
-    flex-direction: row-reverse;
-    text-decoration: none;
-    
-}
-.list{
-    padding-right: 30px;
-}
